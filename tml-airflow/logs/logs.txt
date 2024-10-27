@@ -10245,3 +10245,4 @@ Already up to date.
 [INFO 2024-10-27_04:10:40] Deleting topic iot-preprocess2 in tml_system_step_2_kafka_createtopic_dag-sandry1ml-3f10-2b5c.py
 [INFO 2024-10-27_04:10:44] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-sandry1ml-3f10-2b5c.py
 [INFO 2024-10-27_04:10:49] Deleting topic prediction-data in tml_system_step_2_kafka_createtopic_dag-sandry1ml-3f10-2b5c.py
+[INFO 2024-10-27_04:10:52] Deleting topic cisco-network-privategpt in tml_system_step_2_kafka_createtopic_dag-sandry1ml-3f10-2b5c.py
