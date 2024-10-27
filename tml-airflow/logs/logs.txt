@@ -10252,3 +10252,4 @@ Already up to date.
 [INFO 2024-10-27_04:12:43] Machine Learning DAG in tml_system_step_5_kafka_machine_learning_dag-sandry1ml-3f10-2b5c.py
 [INFO 2024-10-27_04:12:51] Predictions DAG in tml_system_step_6_kafka_predictions_dag-sandry1ml-3f10-2b5c.py
 [ERROR 2024-10-27_04:12:53] Predictions DAG in tml_system_step_6_kafka_predictions_dag-sandry1ml-3f10-2b5c.py invalid literal for int() with base 10: ''
+[INFO 2024-10-27_04:12:54] Visualization DAG in tml_system_step_7_kafka_visualization_dag-sandry1ml-3f10-2b5c.py
