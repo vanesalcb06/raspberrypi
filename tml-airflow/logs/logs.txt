@@ -10228,3 +10228,4 @@ Already up to date.
 [INFO 2024-10-27_03:41:05] TML Solution Studio: git push Status for project sandry1ml-3f10-2b5c: Everything up-to-date
 [INFO 2024-10-27_03:47:10] Deleting topic iot-raw-data in tml_system_step_2_kafka_createtopic_dag-sandry1ml-3f10-2b5c.py
 [INFO 2024-10-27_03:47:18] Deleting topic iot-preprocess in tml_system_step_2_kafka_createtopic_dag-sandry1ml-3f10-2b5c.py
+[INFO 2024-10-27_03:47:29] Deleting topic iot-preprocess2 in tml_system_step_2_kafka_createtopic_dag-sandry1ml-3f10-2b5c.py
