@@ -12329,3 +12329,20 @@ origin	https://<personal access token hidden>@github.com/vanesalcb06/raspberrypi
 [INFO 2024-12-05_19:32:42] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-tssproject2-2b5c.py
 [INFO 2024-12-05_19:32:51] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-tssproject2-2b5c.py
 [INFO 2024-12-05_19:34:09] {'name': ['Project with slug "tssproject2-2b5c" already exists.']}
+[INFO 2024-12-05_19:49:07] TML Solution Studio Started: DOCKERUSERNAME=vanesalcb, GITUSERNAME=vanesalcb06, GITREPOURL=https://github.com/vanesalcb06/raspberrypi.git, AIRFLOWPORT=9000
+[INFO 2024-12-05_19:49:08] TML Solution Studio: Docker Login Status: WARNING! Your password will be stored unencrypted in /root/.docker/config.json.
+Configure a credential helper to remove this warning. See
+https://docs.docker.com/engine/reference/commandline/login/#credentials-store
+
+Login Succeeded
+[INFO 2024-12-05_19:49:08] TML Solution Studio: Github Config Status: core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/vanesalcb06/raspberrypi.git
+remote.origin.fetch=+refs/heads/main:refs/remotes/origin/main
+remote.origin.pushurl=https://<personal access token hidden>@github.com/vanesalcb06/raspberrypi.git
+branch.main.remote=origin
+branch.main.merge=refs/heads/main
+[INFO 2024-12-05_19:49:08] TML Solution Studio: Github Remote Status: origin	https://github.com/vanesalcb06/raspberrypi.git (fetch)
+origin	https://<personal access token hidden>@github.com/vanesalcb06/raspberrypi.git (push)
