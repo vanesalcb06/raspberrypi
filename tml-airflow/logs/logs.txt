@@ -12384,3 +12384,4 @@ Already up to date.
 [INFO 2024-12-05_20:02:51] TML Solution Studio: git add . Status: 
 [INFO 2024-12-05_20:02:51] TML Solution Studio: git commit -a Status for project finalproject-2b5c: fatal: paths 'project ...' with -a does not make sense
 [INFO 2024-12-05_20:02:51] TML Solution Studio: git push Status for project finalproject-2b5c: Everything up-to-date
+[INFO 2024-12-05_20:13:04] Deleting topic cisco-network-mainstream in tml_system_step_2_kafka_createtopic_dag-finalproject-2b5c.py
