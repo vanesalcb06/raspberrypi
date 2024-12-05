@@ -21,8 +21,8 @@ sys.dont_write_bytecode = True
 
 
 def mqttconnection():
-     username="hivemq.webclient.1725974242180"
-     password=",9G*mRjp0$DE8!daFH4f"
+     username=""
+     password=""
 
      client = paho.Client(paho.CallbackAPIVersion.VERSION2)
      mqttBroker = default_args['mqtt_broker'] 
