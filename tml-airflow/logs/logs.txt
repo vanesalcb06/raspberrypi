@@ -12240,3 +12240,4 @@ origin	https://<personal access token hidden>@github.com/vanesalcb06/raspberrypi
 [INFO 2024-12-05_18:45:22] Deleting topic prediction-data in tml_system_step_2_kafka_createtopic_dag-tssproject2-2b5c.py
 [INFO 2024-12-05_18:45:24] Deleting topic cisco-network-privategpt in tml_system_step_2_kafka_createtopic_dag-tssproject2-2b5c.py
 [INFO 2024-12-05_18:45:35] MQTT producing DAG in tml_read_MQTT_step_3_kafka_producetotopic_dag-tssproject2-2b5c.py
+[INFO 2024-12-05_18:45:40] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-tssproject2-2b5c.py
